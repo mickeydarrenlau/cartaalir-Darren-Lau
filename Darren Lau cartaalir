@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T01:04:28.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="VHFmjKt-OUbPVF5gYW4K" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T01:11:17.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="NELIhUoCZuy5qWnrk-l_" version="14.8.4" type="github">
   <diagram id="urQSCvWG4BnAnGKrsHnZ" name="Page-1">
-    <mxGraphModel dx="535" dy="307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="629" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,6 +28,9 @@
         <mxCell id="6r71PQUvRxS7Nrjp6dFU-6" value="Jualan &amp;gt;= 40000" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="420" width="150" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="6r71PQUvRxS7Nrjp6dFU-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6r71PQUvRxS7Nrjp6dFU-8" target="6r71PQUvRxS7Nrjp6dFU-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6r71PQUvRxS7Nrjp6dFU-8" value="Jualan &amp;gt;= 30000" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="560" width="150" height="80" as="geometry" />
         </mxCell>
@@ -45,6 +48,36 @@
         </mxCell>
         <mxCell id="6r71PQUvRxS7Nrjp6dFU-15" value="TIDAK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="530" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6r71PQUvRxS7Nrjp6dFU-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6r71PQUvRxS7Nrjp6dFU-17" target="6r71PQUvRxS7Nrjp6dFU-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6r71PQUvRxS7Nrjp6dFU-17" value="SETKAN komisen=3% atau 3/100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6r71PQUvRxS7Nrjp6dFU-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6r71PQUvRxS7Nrjp6dFU-19" target="6r71PQUvRxS7Nrjp6dFU-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6r71PQUvRxS7Nrjp6dFU-19" value="Jualan &amp;gt;= 30000" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="680" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6r71PQUvRxS7Nrjp6dFU-22" value="TIDAK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="660" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6r71PQUvRxS7Nrjp6dFU-23" value="YA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="670" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6r71PQUvRxS7Nrjp6dFU-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6r71PQUvRxS7Nrjp6dFU-24" target="6r71PQUvRxS7Nrjp6dFU-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6r71PQUvRxS7Nrjp6dFU-24" value="PAPAR komisen" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6r71PQUvRxS7Nrjp6dFU-26" value="TAMAT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6r71PQUvRxS7Nrjp6dFU-28" value="TIDAK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="810" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
