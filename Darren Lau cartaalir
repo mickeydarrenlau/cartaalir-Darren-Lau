@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T01:24:32.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="CY0f4AK2N8dms9KRFxxL" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T01:26:04.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="7v-eYaUMDhlVL3GCmLE1" version="14.8.4" type="github">
   <diagram id="urQSCvWG4BnAnGKrsHnZ" name="Jualan Bulanan dan Komissen">
     <mxGraphModel dx="1886" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
         <mxCell id="8rSugUiq6IXZWcET3cG3-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6r71PQUvRxS7Nrjp6dFU-19" target="8rSugUiq6IXZWcET3cG3-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6r71PQUvRxS7Nrjp6dFU-19" value="Jualan &amp;gt;= 30000" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6r71PQUvRxS7Nrjp6dFU-19" value="Jualan &amp;gt;= 20000" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="215" y="680" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6r71PQUvRxS7Nrjp6dFU-22" value="TIDAK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -93,7 +93,7 @@
         <mxCell id="6r71PQUvRxS7Nrjp6dFU-28" value="TIDAK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="810" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8rSugUiq6IXZWcET3cG3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8rSugUiq6IXZWcET3cG3-1" value="Setkan Komisen Kepada 15% atau 15/100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8rSugUiq6IXZWcET3cG3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
