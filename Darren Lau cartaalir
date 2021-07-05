@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T01:41:59.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="8aM538VzAeDxN1p6k2u3" version="14.8.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-05T01:45:52.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="gIQhz6i1zsLmlwQwsFGO" version="14.8.4" type="github" pages="2">
   <diagram id="urQSCvWG4BnAnGKrsHnZ" name="Jualan Bulanan dan Komissen">
     <mxGraphModel dx="1886" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -172,7 +172,7 @@
         <mxCell id="JYhb_PREpIm1owNdIfU9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JYhb_PREpIm1owNdIfU9-1" source="JYhb_PREpIm1owNdIfU9-8" target="JYhb_PREpIm1owNdIfU9-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYhb_PREpIm1owNdIfU9-8" value="Jualan &amp;gt;= 50000" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
+        <mxCell id="JYhb_PREpIm1owNdIfU9-8" value="Berat Barang &amp;gt;= 0.51 kg" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
           <mxGeometry x="215" y="300" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JYhb_PREpIm1owNdIfU9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JYhb_PREpIm1owNdIfU9-1" source="JYhb_PREpIm1owNdIfU9-11" target="JYhb_PREpIm1owNdIfU9-14">
@@ -181,7 +181,7 @@
         <mxCell id="JYhb_PREpIm1owNdIfU9-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JYhb_PREpIm1owNdIfU9-1" source="JYhb_PREpIm1owNdIfU9-11" target="JYhb_PREpIm1owNdIfU9-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYhb_PREpIm1owNdIfU9-11" value="Jualan &amp;gt;= 40000" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
+        <mxCell id="JYhb_PREpIm1owNdIfU9-11" value="Berat Barang &amp;gt;= 1.1 kg" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
           <mxGeometry x="215" y="420" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JYhb_PREpIm1owNdIfU9-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JYhb_PREpIm1owNdIfU9-1" source="JYhb_PREpIm1owNdIfU9-14" target="JYhb_PREpIm1owNdIfU9-24">
@@ -190,7 +190,7 @@
         <mxCell id="JYhb_PREpIm1owNdIfU9-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JYhb_PREpIm1owNdIfU9-1" source="JYhb_PREpIm1owNdIfU9-14" target="JYhb_PREpIm1owNdIfU9-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYhb_PREpIm1owNdIfU9-14" value="Jualan &amp;gt;= 30000" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
+        <mxCell id="JYhb_PREpIm1owNdIfU9-14" value="Berat Barang &amp;gt;= 2.1 kg" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
           <mxGeometry x="215" y="560" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JYhb_PREpIm1owNdIfU9-15" value="YA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
@@ -211,7 +211,7 @@
         <mxCell id="JYhb_PREpIm1owNdIfU9-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JYhb_PREpIm1owNdIfU9-1" source="JYhb_PREpIm1owNdIfU9-21" target="JYhb_PREpIm1owNdIfU9-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYhb_PREpIm1owNdIfU9-21" value="SETKAN komisen=3% atau 3/100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
+        <mxCell id="JYhb_PREpIm1owNdIfU9-21" value="Setkan Kos penhantaran Kepada RM30" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
           <mxGeometry x="230" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYhb_PREpIm1owNdIfU9-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JYhb_PREpIm1owNdIfU9-1" source="JYhb_PREpIm1owNdIfU9-24" target="JYhb_PREpIm1owNdIfU9-21">
@@ -220,7 +220,7 @@
         <mxCell id="JYhb_PREpIm1owNdIfU9-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JYhb_PREpIm1owNdIfU9-1" source="JYhb_PREpIm1owNdIfU9-24" target="JYhb_PREpIm1owNdIfU9-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYhb_PREpIm1owNdIfU9-24" value="Jualan &amp;gt;= 20000" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
+        <mxCell id="JYhb_PREpIm1owNdIfU9-24" value="Berat Barang &amp;gt;= 5.1 kg" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
           <mxGeometry x="215" y="680" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JYhb_PREpIm1owNdIfU9-25" value="TIDAK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
@@ -232,7 +232,7 @@
         <mxCell id="JYhb_PREpIm1owNdIfU9-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JYhb_PREpIm1owNdIfU9-1" source="JYhb_PREpIm1owNdIfU9-28" target="JYhb_PREpIm1owNdIfU9-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYhb_PREpIm1owNdIfU9-28" value="PAPAR komisen" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
+        <mxCell id="JYhb_PREpIm1owNdIfU9-28" value="PAPAR Kos penhantaran" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
           <mxGeometry x="230" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYhb_PREpIm1owNdIfU9-29" value="TAMAT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
@@ -241,16 +241,16 @@
         <mxCell id="JYhb_PREpIm1owNdIfU9-30" value="TIDAK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
           <mxGeometry x="240" y="810" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JYhb_PREpIm1owNdIfU9-31" value="Setkan Komisen Kepada 15% atau 15/100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
+        <mxCell id="JYhb_PREpIm1owNdIfU9-31" value="Setkan Kos penhantaran Kepada RM6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
           <mxGeometry x="425" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JYhb_PREpIm1owNdIfU9-32" value="&lt;span&gt;Setkan Komisen Kepada 5% atau 5/100&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
+        <mxCell id="JYhb_PREpIm1owNdIfU9-32" value="Setkan Kos penhantaran Kepada RM6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
           <mxGeometry x="425" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JYhb_PREpIm1owNdIfU9-33" value="&lt;span&gt;Setkan Komisen Kepada 8% atau 8/100&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
+        <mxCell id="JYhb_PREpIm1owNdIfU9-33" value="Setkan Kos penhantaran Kepada RM6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
           <mxGeometry x="425" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JYhb_PREpIm1owNdIfU9-34" value="&lt;span&gt;Setkan Komisen Kepada 12% atau 12/100&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
+        <mxCell id="JYhb_PREpIm1owNdIfU9-34" value="Setkan Kos penhantaran Kepada RM6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JYhb_PREpIm1owNdIfU9-1">
           <mxGeometry x="425" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYhb_PREpIm1owNdIfU9-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="JYhb_PREpIm1owNdIfU9-1" source="JYhb_PREpIm1owNdIfU9-26" target="JYhb_PREpIm1owNdIfU9-26">
